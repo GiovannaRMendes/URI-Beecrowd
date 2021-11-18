@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define max 100
+#define max 1000
 
 void empilha_seq(int *t, char *pilha, char y, int n) {
 
