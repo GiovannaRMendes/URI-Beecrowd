@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 #define max 300
 
 void empilha(int *t, char c, char pilha[]) {
